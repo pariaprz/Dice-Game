@@ -1,0 +1,40 @@
+/***********************************Tag Selection**********************************/
+
+body{
+  background-color: #EAE509;
+  text-align: center;
+}
+
+h1{
+  margin: 30px;
+  font-size: 8rem;
+  color:  #FF5B00;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #D4D925;
+}
+p{
+  font-size:2rem;
+  color:  #FF5B00;
+  font-family: 'Indie Flower', cursive;
+
+}
+footer{
+  margin-top: 5%;
+  color: #2B7A0B;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+img{
+  width: 80%;
+}
+/***********************************Class Selection**********************************/
+
+.container{
+  margin:auto;
+  width: 70%;
+}
+
+.dice{
+  display: inline-block;
+}
